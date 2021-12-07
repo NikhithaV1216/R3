@@ -1,4 +1,4 @@
-# NTR #
+# minion #
 ## friends ##
 * bestoo
      * devi
